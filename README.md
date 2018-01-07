@@ -1,4 +1,4 @@
-Machine Learning by Andrew Ng
+Machine Learning Course by Andrew Ng
 ==============================
 ### 1. Linear Regression<br />
 ### 2. Logistic Regression<br />
