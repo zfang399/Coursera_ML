@@ -7,3 +7,4 @@ Machine Learning Course by Andrew Ng
 ### 5. Regularized Linear Regression and Bias v.s. Variance<br />
 ### 6. Support Vector Machines<br />
 ### 7. K-means Clustering and Principal Component Analysis<br />
+### 8. Anomaly Detection and Recommender Systems<br />
