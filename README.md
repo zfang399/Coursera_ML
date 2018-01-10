@@ -8,3 +8,7 @@ Machine Learning Course by Andrew Ng
 ### 6. Support Vector Machines<br />
 ### 7. K-means Clustering and Principal Component Analysis<br />
 ### 8. Anomaly Detection and Recommender Systems<br />
+
+Neural Networks Course by Geoffrey Hinton
+==============================
+### 1. Perceptron Learning<br />
