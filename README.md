@@ -12,3 +12,4 @@ Machine Learning Course by Andrew Ng
 Neural Networks Course by Geoffrey Hinton
 ==============================
 ### 1. Perceptron Learning<br />
+### 2. Learning Word Representations<br />
